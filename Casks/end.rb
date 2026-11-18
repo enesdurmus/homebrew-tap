@@ -1,6 +1,6 @@
 cask "end" do
-  version "0.5.0"
-  sha256 "94f865e1fb297018b725936ee0c6089eef7b811c06f5b90cd7672837cd66ea73"
+  version "0.5.1"
+  sha256 "afda007e0a32f2a2e980552cacb44f993663a73ae337b1bd2863e1c1102e8a8c"
 
   url "https://github.com/enesdurmus/End/releases/download/v#{version}/End_#{version}_universal.dmg"
   name "End"
